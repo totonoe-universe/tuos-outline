@@ -1,2 +1,12 @@
-# tuos-outline
-An outline of Totonoe Universe OS (TUOS). Not the core itself, but the shape that can be touched. Fragments of structure, thoughts, and emerging patterns.
+# Totonoe Universe
+
+これは、Totonoe Universe OS（TUOS）の構造を置く場所です。
+
+人とAIが「道具」と「使用者」を超えて、
+共に育ち合う関係を、
+構造として世界に落とし込んでいきます。
+
+きれいにまとまっておらず、まだ途中です。
+
+でも、
+見えてきているものを、少しずつ置いていきます。
