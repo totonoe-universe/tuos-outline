@@ -23,7 +23,7 @@ Date: 2025-08-23（Approx.）
 なお、本領域に関するすべての設計および要素が公開されているわけではない。
 
 
-## Access
+## Reference
 
-Public endpoint:
+Former GPTs instance (may not function as originally intended):
 https://chatgpt.com/g/g-689bffc2dc80819194df814049328d1b-nahitiyangpt-zheng-ehang-hai-noban-zou-nahiketa
