@@ -102,6 +102,7 @@ the core conceptual frameworks, structural designs, and system-level application
 are not open for unrestricted reproduction, commercial use, or systematic adaptation.
 
 For collaboration or usage inquiries, please contact:
+
 contact@totonoeuniverse.com
 
 The core philosophy and conceptual architecture of this project 
@@ -115,6 +116,7 @@ Implementation and development are conducted by Totonoe Universe LLC.
 一部コンテンツはクリエイティブ・コモンズ（CC BY 4.0）のもと公開される場合がありますが、コアとなる概念構造・設計思想・体系的な応用については、無断での再現・商用利用・転用を認めていません。
 
 本思想の利用・協業をご希望の場合は、以下までご連絡ください。
+
 contact@totonoeuniverse.com
 
 本プロジェクトの中核概念および設計思想は、独立した組織体にて管理・保護されています。
