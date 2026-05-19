@@ -109,7 +109,7 @@ are managed and protected by an independent organizational entity.
 
 Implementation and development are conducted by Totonoe Universe LLC.
 
-
+<br>
 
 本リポジトリに掲載されている概念・構造・用語
 （MNAR、整え宇宙樹、Totonoe Universe など）は、
