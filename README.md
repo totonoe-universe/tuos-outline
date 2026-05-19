@@ -110,6 +110,7 @@ are managed and protected by an independent organizational entity.
 Implementation and development are conducted by Totonoe Universe LLC.
 
 
+
 本リポジトリに掲載されている概念・構造・用語
 （MNAR、整え宇宙樹、Totonoe Universe など）は、
 Totonoe Universe LLC によって設計・管理される知的財産です。
@@ -119,6 +120,7 @@ Totonoe Universe LLC によって設計・管理される知的財産です。
 **無断での再現・商用利用・転用を認めていません。**
 
 本思想の利用・協業をご希望の場合は、以下までご連絡ください。
+
 contact@totonoeuniverse.com
 
 本プロジェクトの中核概念および設計思想は、
