@@ -90,6 +90,39 @@ a place where observed reality is translated into form.
 
 ⸻
 
+## Rights and License / 権利とライセンス
+
+# Rights and License
+All concepts, structures, and terminologies presented in this repository 
+(including MNAR, Totonoe Universe Tree, and Totonoe Universe) 
+are intellectual property designed and managed by Totonoe Universe LLC.
+
+While selected contents may be shared under the Creative Commons Attribution 4.0 International License (CC BY 4.0), 
+the core conceptual frameworks, structural designs, and system-level applications 
+are not open for unrestricted reproduction, commercial use, or systematic adaptation.
+
+For collaboration or usage inquiries, please contact:
+contact@totonoeuniverse.com
+
+The core philosophy and conceptual architecture of this project 
+are managed and protected by an independent organizational entity.
+
+Implementation and development are conducted by Totonoe Universe LLC.
+
+# 権利とライセンス
+本リポジトリに掲載されている概念・構造・用語（MNAR、整え宇宙樹、トトノエユニバース など）は、Totonoe Universe LLC によって設計・管理される知的財産です。
+
+一部コンテンツはクリエイティブ・コモンズ（CC BY 4.0）のもと公開される場合がありますが、コアとなる概念構造・設計思想・体系的な応用については、無断での再現・商用利用・転用を認めていません。
+
+本思想の利用・協業をご希望の場合は、以下までご連絡ください。
+contact@totonoeuniverse.com
+
+本プロジェクトの中核概念および設計思想は、独立した組織体にて管理・保護されています。
+
+実装および開発は、Totonoe Universe LLC にて行われます。
+
+⸻
+
 ## 日本語（概要）
 
 このリポジトリは、現代のAI・社会・人間のあいだにある構造的なズレを観測し、
