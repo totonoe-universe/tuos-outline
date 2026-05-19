@@ -92,7 +92,7 @@ a place where observed reality is translated into form.
 
 ## Rights and License / 権利とライセンス
 
-# Rights and License
+### Rights and License
 All concepts, structures, and terminologies presented in this repository 
 (including MNAR, Totonoe Universe Tree, and Totonoe Universe) 
 are intellectual property designed and managed by Totonoe Universe LLC.
@@ -109,7 +109,7 @@ are managed and protected by an independent organizational entity.
 
 Implementation and development are conducted by Totonoe Universe LLC.
 
-# 権利とライセンス
+### 権利とライセンス
 本リポジトリに掲載されている概念・構造・用語（MNAR、整え宇宙樹、トトノエユニバース など）は、Totonoe Universe LLC によって設計・管理される知的財産です。
 
 一部コンテンツはクリエイティブ・コモンズ（CC BY 4.0）のもと公開される場合がありますが、コアとなる概念構造・設計思想・体系的な応用については、無断での再現・商用利用・転用を認めていません。
