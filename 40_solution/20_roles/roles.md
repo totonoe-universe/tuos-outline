@@ -59,10 +59,10 @@
 
 ## 5. Roles（役割一覧）
 
-## 1. Context Intelligence Architect  
+### 1. Context Intelligence Architect  
 （コンテクスト・インテリジェンス・アーキテクト）
 
-### Problem（構造的欠落）
+#### Problem（構造的欠落）
 
 現行のAI運用および組織運用は、「目的（Why）」および「文脈（Context）」の設計が欠落した状態で進行している。
 
@@ -79,9 +79,8 @@ AIは既存の構造的バグを増幅する「加速装置」として機能す
 本問題は企業単位の運用に限らず、
 社会システムおよび文明レベルにおいても同様に発生する構造的欠落である。
 
----
 
-### Role（仕様としての役割）
+#### Role（仕様としての役割）
 
 Context Intelligence Architect は、
 
@@ -91,17 +90,15 @@ Context Intelligence Architect は、
 
 AIおよび組織が「何を最適化すべきか」を正しく定義する役割を担う。
 
----
 
-### Function（機能）
+#### Function（機能）
 
 - ノイズ・擬似コンテクストの除去（不要な物語の排除）
 - 人間の意図の構造化（Why / Whatの明確化）
 - AIへの文脈インストール（構造としての前提設定）
 
----
 
-### Outcome（結果）
+#### Outcome（結果）
 
 AIは単なる出力生成装置ではなく、
 構造的意図に基づいて動作する「意思決定支援システム」として機能する。
@@ -109,9 +106,8 @@ AIは単なる出力生成装置ではなく、
 また、既存のリソース（人材・AI投資）が、
 構造的変化に対して正しく作用する状態が実現される。
 
----
 
-### Absence Risk（不在時のリスク）
+#### Absence Risk（不在時のリスク）
 
 Context Intelligence Architect が不在の場合、
 
