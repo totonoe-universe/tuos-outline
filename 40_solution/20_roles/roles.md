@@ -62,7 +62,7 @@
 ### 1. Context Intelligence Architect  
 （コンテクスト・インテリジェンス・アーキテクト）
 
-#### Problem（構造的欠落）
+#### **■ Problem（構造的欠落）**
 
 現行のAI運用および組織運用は、「目的（Why）」および「文脈（Context）」の設計が欠落した状態で進行している。
 
