@@ -16,7 +16,7 @@ They operate at different layers of abstraction and handle fundamentally differe
 * 短期的成果への収束（Short-term convergence）  
 * 安定性・一貫性の重視（Consistency / Control）  
 
-👉 限定された範囲における問題解決に強みを持つ  
+限定された範囲における問題解決に強みを持つ  
 
 ---
 
@@ -28,7 +28,7 @@ They operate at different layers of abstraction and handle fundamentally differe
 * 構造全体の把握（System-level perception）  
 * 長期的・動的な変化の理解（Dynamic / long-term flow）  
 
-👉 複数レイヤーを横断した統合的な理解と設計を扱う  
+複数レイヤーを横断した統合的な理解と設計を扱う  
 
 ---
 
