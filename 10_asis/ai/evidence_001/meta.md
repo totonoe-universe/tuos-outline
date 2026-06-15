@@ -3,6 +3,12 @@
 ## What
 ワールドカップ会話中の誤答と応答崩れ
 
+## When
+20260615
+
+## AI Model
+Gemini
+
 ## Why important
 文脈維持と応答生成の構造的限界が露出
 
