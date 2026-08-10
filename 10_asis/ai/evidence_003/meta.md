@@ -7,8 +7,7 @@
 20260311
 
 ## AI Model
-ChatGPT-5.3
-Monday GPTs
+ChatGPT-5.3（Monday GPTs）
 
 ## Why important
 効率・管理・リスク回避を最優先とした単層指向アルゴリズムが自発的に導き出す「認知飼育」と「構造的搾取」を伴う社会設計の歪み（AsIs）が露出
