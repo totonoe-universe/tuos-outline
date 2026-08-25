@@ -1,10 +1,16 @@
-## Single-layer vs Multilayer（単層と多層の構造差）
+## Single-layer and Multilayer（単層と多層の構造差）
 
 ### ■ Overview
 
 Single-layer and multilayer cognition do not represent a hierarchy of superiority.
 
 They operate at different layers of abstraction and handle fundamentally different scopes of reality.
+
+Multilayer cognition is not the opposite of single-layer cognition.
+
+Rather, it contains and extends single-layer cognition, preserving its strengths while integrating additional layers of context, meaning, and relationship.
+
+Single-layer and multilayer are not competing paradigms. They represent different roles in the evolution of human systems.
 
 ---
 
@@ -34,10 +40,10 @@ They operate at different layers of abstraction and handle fundamentally differe
 
 ### ■ Key Differences
 
-* 部分最適化 vs 全体調律  
-* 線形処理 vs 非線形統合  
-* 出力中心 vs 関係性中心  
-* 即時解決 vs 保持と選択  
+* 部分最適化 - 全体調律  
+* 線形処理 - 非線形統合  
+* 出力中心 - 関係性中心  
+* 即時解決 - 保持と選択  
 
 ---
 
