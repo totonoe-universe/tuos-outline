@@ -36,6 +36,12 @@ there are emerging limitations in:
 These are not failures of individual models,
 but characteristics of the current design paradigm.
 
+Our perspective is different:
+
+AI is a partner that expands human thinking while preserving human meaning.
+
+This perspective shifts the focus from answer generation to collaborative meaning-making.
+
 ⸻
 
 ## Scope
